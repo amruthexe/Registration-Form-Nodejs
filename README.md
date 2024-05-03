@@ -5,9 +5,9 @@ This project implements a simple registration form using Node.js with Express. U
 ## Demo
 
 ![Alt Text](1.PNG)
-![Alt Text](2.png)
-![Alt Text](3.png)
-![Alt Text](4.png)
+![Alt Text](2.PNG)
+![Alt Text](3.PNG)
+![Alt Text](4.PNG)
 
 ## Features
 
